@@ -1,0 +1,7 @@
+C:\Users\aulug\source\repos\ReactApp\bin\ReactApp.dll.config
+C:\Users\aulug\source\repos\ReactApp\bin\ReactApp.dll
+C:\Users\aulug\source\repos\ReactApp\bin\ReactApp.pdb
+C:\Users\aulug\source\repos\ReactApp\obj\Debug\ReactApp.csprojAssemblyReference.cache
+C:\Users\aulug\source\repos\ReactApp\obj\Debug\ReactApp.csproj.CoreCompileInputs.cache
+C:\Users\aulug\source\repos\ReactApp\obj\Debug\ReactApp.dll
+C:\Users\aulug\source\repos\ReactApp\obj\Debug\ReactApp.pdb
